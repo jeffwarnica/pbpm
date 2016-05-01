@@ -1,0 +1,9 @@
+/vendor
+!/build/phpunit.xml
+!/build/phpmd.xml
+!/build/pdepend.xml
+!/build/phpdox.xml
+
+/build/*
+.project
+.settings
